@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name ="Test-Suite">
+    <parameter name ="browser" value="Chrome"></parameter>
+    <test name ="test search">
+            <classes>
+<!--                <class name ="test.testcase.TestGoogleSearch"></class>  -->
+                <class name ="test.testcase.SauceLabTestCases"></class>
+            </classes>
+        </test>
+</suite>

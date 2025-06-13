@@ -1,0 +1,39 @@
+02 Jun 2025 13:06:571  INFO logger - Google page loaded successfully
+02 Jun 2025 13:06:257  INFO logger - Google page loaded successfully
+02 Jun 2025 14:06:247  INFO logger - Google page loaded successfully
+05 Jun 2025 10:06:776  INFO logger - Google page loaded successfully
+05 Jun 2025 10:06:249  INFO logger - ClassName main.java.org.example.pages.ProductPage  methodName :findElement  exception : Element not found
+05 Jun 2025 10:06:583  INFO logger - Google page loaded successfully
+05 Jun 2025 11:06:742  INFO logger - title :Swag Labs
+05 Jun 2025 12:06:621  INFO logger - title :Swag Labs
+05 Jun 2025 12:06:715  INFO logger - title :Swag Labs
+05 Jun 2025 12:06:426  INFO logger - title :Swag Labs
+05 Jun 2025 12:06:794  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:231  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:882  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:656  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:583  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:93  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:364  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:07  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:49  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:730  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:500  INFO logger - title :Swag Labs
+05 Jun 2025 17:06:80  INFO logger - title :Swag Labs
+05 Jun 2025 18:06:400  INFO logger - title :Swag Labs
+05 Jun 2025 18:06:17  INFO logger - title :Swag Labs
+06 Jun 2025 09:06:378  INFO logger - title :Swag Labs
+06 Jun 2025 09:06:628  INFO logger - title :Swag Labs
+06 Jun 2025 09:06:307  INFO logger - title :Swag Labs
+06 Jun 2025 09:06:385  INFO logger - title :Swag Labs
+06 Jun 2025 10:06:919  INFO logger - title :Swag Labs
+06 Jun 2025 10:06:787  INFO logger - title :Swag Labs
+06 Jun 2025 10:06:936  INFO logger - title :Swag Labs
+06 Jun 2025 10:06:420  INFO logger - title :Swag Labs
+06 Jun 2025 10:06:56  INFO logger - title :Swag Labs
+06 Jun 2025 10:06:232  INFO logger - title :Swag Labs
+10 Jun 2025 12:06:219  INFO logger - title :Swag Labs
+10 Jun 2025 12:06:402  INFO logger - title :Swag Labs
+11 Jun 2025 09:06:639  INFO logger - title :Swag Labs
+11 Jun 2025 09:06:393  INFO logger - title :Swag Labs
+11 Jun 2025 09:06:435  INFO logger - title :Swag Labs
